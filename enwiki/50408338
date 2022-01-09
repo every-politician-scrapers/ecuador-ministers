@@ -1,0 +1,215 @@
+{
+  "title": "Guillaume Long",
+  "pageID": 50408338,
+  "categories": [
+    "1977 births",
+    "Alumni of the University of London",
+    "Ecuadorian people of British descent",
+    "Ecuadorian people of French descent",
+    "Foreign ministers of Ecuador",
+    "Living people",
+    "PAIS Alliance politicians",
+    "Alumni of the School of Advanced Study",
+    "Politicians from Paris"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Guillaume Jean Sebastien Long (born 22 February 1977) is an Ecuadorian former politician and academic who served as the Minister of Foreign Affairs of Ecuador and Human Mobility, in the government of Rafael Correa.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ecuadorian"
+                },
+                {
+                  "text": "Minister of Foreign Affairs of Ecuador",
+                  "type": "internal",
+                  "page": "Foreign minister"
+                },
+                {
+                  "type": "internal",
+                  "page": "Rafael Correa"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Guillaume Jean Sebastien Long"
+                ]
+              }
+            },
+            {
+              "text": "He was previously the Minister of Culture and Heritage, and Minister of Knowledge and Human Talent."
+            },
+            {
+              "text": "Long later became Ecuador's Permanent Representative to the United Nations in Geneva, before resigning in January 2018 over strong disagreements with President Moreno.",
+              "links": [
+                {
+                  "text": "Moreno",
+                  "type": "internal",
+                  "page": "Lenín Moreno"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Ecuadorian politician",
+          "template": "short description"
+        },
+        {
+          "date": "October 2020",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1977",
+          "month": "2",
+          "day": "22",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Guillaume Long"
+          },
+          "image": {
+            "text": "CANCILLER GUILLAUME LONG PRESENTA CONFERENCIA SOBRE JUSTICIA, DERECHOS HUMANOS Y ERRADICACIÓN DE PARAÍSOS FISCALES ANTE LA ONU, GINEBRA, SUIZA, 01 DE MAYO 2017 (33998283780).jpg"
+          },
+          "office": {
+            "text": "Minister of Foreign Affairs"
+          },
+          "president": {
+            "text": "Rafael Correa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rafael Correa"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "3 March 2016"
+          },
+          "term_end": {
+            "text": "24 May 2017"
+          },
+          "predecessor": {
+            "text": "Ricardo Patiño",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ricardo Patiño"
+              }
+            ]
+          },
+          "successor": {
+            "text": "María Fernanda Espinosa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "María Fernanda Espinosa"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Minister of Culture and Heritage"
+          },
+          "president2": {
+            "text": "Rafael Correa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rafael Correa"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "25 March 2015"
+          },
+          "term_end2": {
+            "text": "March 2016"
+          },
+          "predecessor2": {
+            "text": "Francisco Borja Cevallos"
+          },
+          "successor2": {
+            "text": "Ana Rodríguez Ludeña"
+          },
+          "office3": {
+            "text": "Coordinating Minister of Knowledge and Human Talent"
+          },
+          "president3": {
+            "text": "Rafael Correa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rafael Correa"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "6 May 2013"
+          },
+          "term_end3": {
+            "text": "2015",
+            "number": 2015
+          },
+          "predecessor3": {
+            "text": "Augusto Espinoza"
+          },
+          "successor3": {
+            "text": "Andrés Araúz"
+          },
+          "birth_date": {
+            "text": "February 22, 1977"
+          },
+          "birth_place": {
+            "text": "Créteil, France",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Créteil"
+              },
+              {
+                "type": "internal",
+                "page": "France"
+              }
+            ]
+          },
+          "party": {
+            "text": "PAIS Alliance",
+            "links": [
+              {
+                "type": "internal",
+                "page": "PAIS Alliance"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Lola Macdonald Allen"
+          },
+          "children": {
+            "text": "Ambar Allen, Ernesto Long, Olivia Long."
+          },
+          "alma_mater": {
+            "text": "University of London",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of London"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
