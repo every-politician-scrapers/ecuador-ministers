@@ -1,0 +1,185 @@
+{
+  "title": "María Alejandra Muñoz",
+  "pageID": 65983563,
+  "categories": [
+    "Vice presidents of Ecuador",
+    "1970s births",
+    "Year of birth uncertain",
+    "Living people",
+    "Women vice presidents",
+    "21st-century Ecuadorian women politicians",
+    "21st-century Ecuadorian politicians",
+    "People from Guayaquil",
+    "University of Salamanca alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "María Alejandra Muñoz Seminario (born 18 December 1979) is an Ecuadorian politician and lawyer who was the 51st Vice President of Ecuador from July 2020 until May 2021.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Vice President of Ecuador"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "María Alejandra Muñoz Seminario"
+                ]
+              }
+            },
+            {
+              "text": "She is the third female to hold this position, after Rosalía Arteaga and Maria Alejandra Vicuña.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Rosalía Arteaga"
+                },
+                {
+                  "type": "internal",
+                  "page": "Maria Alejandra Vicuña"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 17 July 2020, Muñoz was elected as vice president by the National Assembly, after receiving 75 votes in favor of her election.",
+              "links": [
+                {
+                  "text": "National Assembly",
+                  "type": "internal",
+                  "page": "National Assembly (Ecuador)"
+                }
+              ]
+            },
+            {
+              "text": "She was sworn in on 22 July 2020."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Muñoz is married and has four children."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "November 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "description": "Vice President of Ecuador",
+          "template": "short description"
+        },
+        {
+          "year": "1979",
+          "month": "12",
+          "day": "18",
+          "df": "yes",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "María Alejandra Muñoz"
+          },
+          "image": {
+            "text": "SESIÓN NO. 678 DEL PLENO DE LA ASAMBLEA NACIONAL (VIRTUAL). ECUADOR, 22 DE JULIO DEL 2020 (cropped).jpg"
+          },
+          "caption": {
+            "text": "Muñoz in 2020"
+          },
+          "office": {
+            "text": "51st Vice President of Ecuador",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Vice President of Ecuador"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "22 July 2020"
+          },
+          "term_end": {
+            "text": "24 May 2021"
+          },
+          "1blankname": {
+            "text": "President"
+          },
+          "1namedata": {
+            "text": "Lenín Moreno",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lenín Moreno"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Otto Sonnenholzner",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Otto Sonnenholzner"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Alfredo Borrero",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alfredo Borrero"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "December 18, 1979"
+          },
+          "birth_place": {
+            "text": "Guayaquil, Ecuador",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Guayaquil"
+              }
+            ]
+          },
+          "party": {
+            "text": "Construye Ecuador"
+          },
+          "children": {
+            "text": "4",
+            "number": 4
+          },
+          "alma_mater": {
+            "text": "University of Salamanca\nUniversidad de Especialidades Espíritu Santo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Salamanca"
+              },
+              {
+                "type": "internal",
+                "page": "Universidad de Especialidades Espíritu Santo"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
