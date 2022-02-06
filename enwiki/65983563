@@ -83,6 +83,14 @@
           "template": "short description"
         },
         {
+          "list": [
+            "Muñoz",
+            "Seminario"
+          ],
+          "lang": "Spanish",
+          "template": "family name hatnote"
+        },
+        {
           "year": "1979",
           "month": "12",
           "day": "18",
