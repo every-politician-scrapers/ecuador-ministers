@@ -22,7 +22,7 @@
         {
           "sentences": [
             {
-              "text": "Guillermo Alberto Santiago Lasso Mendoza (born 16 November 1955) is an Ecuadorian businessman, banker, writer and politician who is the 47th and current president of Ecuador since 24 May 2021.",
+              "text": "Guillermo Alberto Santiago Lasso Mendoza (born 16 November 1955) is an Ecuadorian businessman, banker, writer and politician who has served as the 47th president of Ecuador since 24 May 2021.",
               "links": [
                 {
                   "text": "Ecuadorian",
@@ -30,13 +30,9 @@
                   "page": "Ecuadorians"
                 },
                 {
-                  "text": "president",
+                  "text": "president of Ecuador",
                   "type": "internal",
-                  "page": "President of Ecuador"
-                },
-                {
-                  "type": "internal",
-                  "page": "Ecuador"
+                  "page": "president of Ecuador"
                 }
               ],
               "formatting": {
