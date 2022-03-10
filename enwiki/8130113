@@ -1,270 +1,32 @@
 {
-  "title": "Cynthia Viteri",
-  "pageID": 8130113,
-  "categories": [
-    "1965 births",
-    "Living people",
-    "People from Guayaquil",
-    "University of Guayaquil alumni",
-    "Ecuadorian journalists",
-    "Ecuadorian women journalists",
-    "Ecuadorian lawyers",
-    "Ecuadorian women in politics",
-    "Members of the National Congress (Ecuador)",
-    "Members of the Ecuadorian Constituent Assembly (2007–2008)",
-    "Members of the first National Assembly of Ecuador",
-    "Members of the second National Assembly of Ecuador",
-    "Social Christian Party (Ecuador) politicians",
-    "Ecuadorian women lawyers",
-    "21st-century women politicians",
-    "21st-century Ecuadorian women"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Cynthia Fernanda Viteri Jiménez de Váscones (born 19 November 1965) is an Ecuadorian lawyer, journalist and politician.",
-              "formatting": {
-                "bold": [
-                  "Cynthia Fernanda Viteri Jiménez de Váscones"
-                ]
-              }
-            },
-            {
-              "text": "On March 24, 2019, she was elected Mayor of Guayaquil, the largest city in Ecuador, in the sectional elections of Ecuador for a term from May 14, 2019 until May 14, 2024."
-            },
-            {
-              "text": "She was the presidential candidate for Partido Social Cristiano in the 2017 presidential elections, and was a candidate in the 2006 presidential elections of Ecuador and finished fifth.",
-              "links": [
-                {
-                  "text": "Partido Social Cristiano",
-                  "type": "internal",
-                  "page": "Partido Social Cristiano (Ecuador)"
-                },
-                {
-                  "text": "2017 presidential elections",
-                  "type": "internal",
-                  "page": "2017 Ecuadorian general election"
-                },
-                {
-                  "text": "2006 presidential elections",
-                  "type": "internal",
-                  "page": "2006 Ecuadorian general election"
-                }
-              ]
-            },
-            {
-              "text": "Between 1998 and 2007 she was a member of the National Congress.",
-              "links": [
-                {
-                  "text": "National Congress",
-                  "type": "internal",
-                  "page": "National Congress (Ecuador)"
-                }
-              ]
-            },
-            {
-              "text": "In 2009 she became a member of the National Assembly.",
-              "links": [
-                {
-                  "text": "National Assembly",
-                  "type": "internal",
-                  "page": "National Assembly (Ecuador)"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Ecuadorian lawyer, journalist and politician",
-          "template": "short description"
-        },
-        {
-          "list": [
-            "Viteri",
-            "Jiménez"
-          ],
-          "lang": "Spanish",
-          "template": "family name hatnote"
-        },
-        {
-          "year": "1965",
-          "month": "11",
-          "day": "19",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Cynthia Viteri"
-          },
-          "image": {
-            "text": "Cynthia Viteri en 2018 02 (cropped).jpg"
-          },
-          "office1": {
-            "text": "Mayor of Guayaquil",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Guayaquil"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "15 May 2019"
-          },
-          "office2": {
-            "text": "Member of the National Assembly for the National Constituency",
-            "links": [
-              {
-                "text": "National Assembly",
-                "type": "internal",
-                "page": "National Assembly (Ecuador)"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "14 May 2013"
-          },
-          "term_end2": {
-            "text": "6 Nov 2017"
-          },
-          "office3": {
-            "text": "Member of the National Assembly for Guayas Province",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Guayas Province"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "31 July 2009"
-          },
-          "term_end3": {
-            "text": "13 May 2013"
-          },
-          "office4": {
-            "text": "Member of the Constituent Assembly",
-            "links": [
-              {
-                "text": "Constituent Assembly",
-                "type": "internal",
-                "page": "Ecuadorian Constituent Assembly"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "29 November 2007"
-          },
-          "term_end4": {
-            "text": "25 October 2008"
-          },
-          "office5": {
-            "text": "Member of the National Congress",
-            "links": [
-              {
-                "text": "National Congress",
-                "type": "internal",
-                "page": "National Congress (Ecuador)"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "15 January 2003"
-          },
-          "term_end5": {
-            "text": "15 January 2007"
-          },
-          "office6": {
-            "text": "First Vice President of the National Congress"
-          },
-          "president6": {
-            "text": "Wilfrido Lucero",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Wilfrido Lucero"
-              }
-            ]
-          },
-          "term_start6": {
-            "text": "21 April 2005"
-          },
-          "term_end6": {
-            "text": "26 April 2006"
-          },
-          "office7": {
-            "text": "Member of the National Congress for Guayas Province"
-          },
-          "term_start7": {
-            "text": "11 August 1998"
-          },
-          "term_end7": {
-            "text": "15 January 2003"
-          },
-          "office8": {
-            "text": "Member of the National Constituent Assembly",
-            "links": [
-              {
-                "text": "National Constituent Assembly",
-                "type": "internal",
-                "page": "National Constituent Assembly (Ecuador)"
-              }
-            ]
-          },
-          "term_start8": {
-            "text": "6 February 1997"
-          },
-          "term_end8": {
-            "text": "11 August 1998"
-          },
-          "birth_date": {
-            "text": "November 19, 1965"
-          },
-          "birth_place": {
-            "text": "Guayaquil, Ecuador",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Guayaquil"
-              },
-              {
-                "type": "internal",
-                "page": "Ecuador"
-              }
-            ]
-          },
-          "party": {
-            "text": "Social Christian Party",
-            "links": [
-              {
-                "text": "Social Christian Party",
-                "type": "internal",
-                "page": "Social Christian Party (Ecuador)"
-              }
-            ]
-          },
-          "website": {
-            "text": "cynthiaviteri.com",
-            "links": [
-              {
-                "text": "cynthiaviteri.com",
-                "type": "external",
-                "site": "http://www.cynthiaviteri.com/"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Cynthia Viteri",
+  "image": "Cynthia Viteri en 2018 02 (cropped).jpg",
+  "office1": "Mayor of Guayaquil",
+  "term_start1": "15 May 2019",
+  "office2": "Member of the National Assembly for the National Constituency",
+  "term_start2": "14 May 2013",
+  "term_end2": "6 Nov 2017",
+  "office3": "Member of the National Assembly for Guayas Province",
+  "term_start3": "31 July 2009",
+  "term_end3": "13 May 2013",
+  "office4": "Member of the Constituent Assembly",
+  "term_start4": "29 November 2007",
+  "term_end4": "25 October 2008",
+  "office5": "Member of the National Congress",
+  "term_start5": "15 January 2003",
+  "term_end5": "15 January 2007",
+  "office6": "First Vice President of the National Congress",
+  "president6": "Wilfrido Lucero",
+  "term_start6": "21 April 2005",
+  "term_end6": "26 April 2006",
+  "office7": "Member of the National Congress for Guayas Province",
+  "term_start7": "11 August 1998",
+  "term_end7": "15 January 2003",
+  "office8": "Member of the National Constituent Assembly",
+  "term_start8": "6 February 1997",
+  "term_end8": "11 August 1998",
+  "birth_date": "November 19, 1965",
+  "birth_place": "Guayaquil, Ecuador",
+  "party": "Social Christian Party",
+  "website": "cynthiaviteri.com"
 }

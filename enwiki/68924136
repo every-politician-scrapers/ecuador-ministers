@@ -1,177 +1,22 @@
 {
-  "title": "Santiago Guarderas",
-  "pageID": 68924136,
-  "categories": [
-    "Living people",
-    "1964 births",
-    "21st-century politicians",
-    "Mayors of Quito"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Santiago Guarderas Izquierdo (born 1964) is an Ecuadorian politician and lawyer.",
-              "formatting": {
-                "bold": [
-                  "Santiago Guarderas Izquierdo"
-                ]
-              }
-            },
-            {
-              "text": "He is the Metropolitan Mayor of Quito since 30 September 2021.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Metropolitan Mayor of Quito"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Ecuadorian politician",
-          "template": "short description"
-        },
-        {
-          "langcode": "es",
-          "otherarticle": "Santiago Guarderas",
-          "date": "August 2021",
-          "template": "expand language"
-        },
-        {
-          "birth_year": "1964",
-          "template": "birth year and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Santiago Guarderas"
-          },
-          "image": {
-            "text": "Santiago Guarderas Izquierdo.jpg"
-          },
-          "office": {
-            "text": "Metropolitan Mayor of Quito",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Metropolitan Mayor of Quito"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "30 September 2021"
-          },
-          "predecessor": {
-            "text": "Jorge Yunda",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jorge Yunda"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Vice Metropolitan Mayor of Quito",
-            "links": [
-              {
-                "text": "Vice Metropolitan Mayor of Quito",
-                "type": "internal",
-                "page": "Metropolitan Mayor of Quito"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "14 May 2019"
-          },
-          "term_end1": {
-            "text": "29 September 2021"
-          },
-          "predecessor1": {
-            "text": "Eduardo del Pozo"
-          },
-          "successor1": {
-            "text": "Brith Vaca"
-          },
-          "office2": {
-            "text": "Member of the National Congress from the Pichincha Province",
-            "links": [
-              {
-                "text": "National Congress",
-                "type": "internal",
-                "page": "National Congress (Ecuador)"
-              },
-              {
-                "type": "internal",
-                "page": "Pichincha Province"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "5 January 2007"
-          },
-          "term_end2": {
-            "text": "30 November 2007"
-          },
-          "birth_name": {
-            "text": "Santiago Guarderas Izquierdo"
-          },
-          "birth_date": {
-            "text": "1964 (age 58)"
-          },
-          "birth_place": {
-            "text": "Quito, Ecuador",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Quito"
-              },
-              {
-                "type": "internal",
-                "page": "Ecuador"
-              }
-            ]
-          },
-          "education": {
-            "text": "Pontifical Catholic University of Ecuador",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Pontifical Catholic University of Ecuador"
-              }
-            ]
-          },
-          "party": {
-            "text": "Ecuadorian Union Party (since 2019)"
-          },
-          "otherparty": {
-            "text": "Democratic Left (before 2007) Social Christian Party (2007&ndash;2019)",
-            "links": [
-              {
-                "text": "Democratic Left",
-                "type": "internal",
-                "page": "Democratic Left (Ecuador)"
-              },
-              {
-                "text": "Social Christian Party",
-                "type": "internal",
-                "page": "Social Christian Party (Ecuador)"
-              }
-            ]
-          },
-          "occupation": {
-            "text": "Lawyer and politician"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Santiago Guarderas",
+  "image": "Santiago Guarderas Izquierdo.jpg",
+  "office": "Metropolitan Mayor of Quito",
+  "term_start": "30 September 2021",
+  "predecessor": "Jorge Yunda",
+  "office1": "Vice Metropolitan Mayor of Quito",
+  "term_start1": "14 May 2019",
+  "term_end1": "29 September 2021",
+  "predecessor1": "Eduardo del Pozo",
+  "successor1": "Brith Vaca",
+  "office2": "Member of the National Congress from the Pichincha Province",
+  "term_start2": "5 January 2007",
+  "term_end2": "30 November 2007",
+  "birth_name": "Santiago Guarderas Izquierdo",
+  "birth_date": "1964 (age 58)",
+  "birth_place": "Quito, Ecuador",
+  "education": "Pontifical Catholic University of Ecuador",
+  "party": "Ecuadorian Union Party (since 2019)",
+  "otherparty": "Democratic Left (before 2007) Social Christian Party (2007&ndash;2019)",
+  "occupation": "Lawyer and politician"
 }
