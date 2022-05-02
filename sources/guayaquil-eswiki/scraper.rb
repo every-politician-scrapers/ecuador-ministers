@@ -31,8 +31,12 @@ class OfficeholderList < OfficeholderListBase
       super.to_s.gsub('Presente', '').tidy
     end
 
-    def tds
-      noko.css('td,th')
+    def raw_combo_date
+      super.gsub(' del ', ' de ')
+    end
+
+    def empty?
+      super || (startDate[0...4].to_i < 2000)
     end
   end
 end
