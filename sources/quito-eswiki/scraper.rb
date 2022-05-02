@@ -4,20 +4,9 @@
 require 'every_politician_scraper/scraper_data'
 require 'pry'
 
-class String
-  def ztidy
-    gsub(/[\u200B-\u200D\uFEFF]/, '').tidy
-  end
-end
-
-class WikipediaDate::Spanish
-  def date_en
-    super.ztidy
-  end
-end
-
 class OfficeholderList < OfficeholderListBase
   decorator RemoveReferences
+  decorator ReplaceZeroWidthSpaces
   decorator UnspanAllTables
   decorator WikidataIdsDecorator::Links
 
@@ -30,12 +19,12 @@ class OfficeholderList < OfficeholderListBase
       %w[_ name dates].freeze
     end
 
-    def raw_end
-      super.to_s.gsub('Presente', '').tidy
+    def raw_combo_date
+      super.gsub(' del ', ' de ').gsub('Presente', 'Incumbent')
     end
 
-    def tds
-      noko.css('td,th')
+    def empty?
+      super || (startDate[0...4].to_i < 1995)
     end
   end
 end
