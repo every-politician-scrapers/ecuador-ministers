@@ -1,11 +1,9 @@
-@@,itemlabel,item,startdate,enddate
----,Isidro Ayora,Q728787,,
-->,Jamil Mahuad->Jamil Mahuad Witt,Q471248,1996-08-10,1998-08-10
-->,Roque Sevilla->Roque Sevilla Larrea,Q23907065,1998-08-10,2000-08-10
-->,Paco Moncayo->Paco Moncayo Gallegos,Q2335730,2000-08-10,2009-01-29->2005-01-05
-->,Paco Moncayo->Paco Moncayo Gallegos,Q2335730,2005-01-05,2009-01-29
-->,Andrés Vallejo->Andrés Vallejo Arcos,Q8199417,2009-01-29,2009-07-31
-->,Augusto Barrera->Augusto Barrera Guarderas,Q460418,2009-07-31,2014-05-14
-->,Mauricio Rodas->Mauricio Rodas Espinel,Q16302090,2014-05-14,2019-05-14
-->,Jorge Yunda->Jorge Yunda Machado,Q62398666,2019-05-14,2021-09-30->2021-09-29
-->,Santiago Guarderas->Santiago Guarderas Izquierdo,Q107104638,2021-09-30,
+@@,item,itemlabel,startdate,enddate
+->,Q23907065,Roque Sevilla->Roque Sevilla Larrea,1998-08-10,2000-08-10
+->,Q2335730,Paco Moncayo->Paco Moncayo Gallegos,2000-08-10,2009-01-29->2005-01-05
+->,Q2335730,Paco Moncayo->Paco Moncayo Gallegos,2005-01-05,2009-01-29
+->,Q8199417,Andrés Vallejo->Andrés Vallejo Arcos,2009-01-29,2009-07-31
+->,Q460418,Augusto Barrera->Augusto Barrera Guarderas,2009-07-31,2014-05-14
+->,Q16302090,Mauricio Rodas->Mauricio Rodas Espinel,2014-05-14,2019-05-14
+->,Q62398666,Jorge Yunda->Jorge Yunda Machado,2019-05-14,2021-09-30->2021-09-29
+->,Q107104638,Santiago Guarderas->Santiago Guarderas Izquierdo,2021-09-30,
